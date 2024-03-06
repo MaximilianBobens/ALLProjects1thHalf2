@@ -1,0 +1,15 @@
+C:\Users\maxim\RiderProjects\AllProjects\AllProjects\bin\Debug\net6.0\AllProjects.exe
+C:\Users\maxim\RiderProjects\AllProjects\AllProjects\bin\Debug\net6.0\AllProjects.deps.json
+C:\Users\maxim\RiderProjects\AllProjects\AllProjects\bin\Debug\net6.0\AllProjects.runtimeconfig.json
+C:\Users\maxim\RiderProjects\AllProjects\AllProjects\bin\Debug\net6.0\AllProjects.dll
+C:\Users\maxim\RiderProjects\AllProjects\AllProjects\bin\Debug\net6.0\AllProjects.pdb
+C:\Users\maxim\RiderProjects\AllProjects\AllProjects\obj\Debug\net6.0\AllProjects.csproj.AssemblyReference.cache
+C:\Users\maxim\RiderProjects\AllProjects\AllProjects\obj\Debug\net6.0\AllProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\RiderProjects\AllProjects\AllProjects\obj\Debug\net6.0\AllProjects.AssemblyInfoInputs.cache
+C:\Users\maxim\RiderProjects\AllProjects\AllProjects\obj\Debug\net6.0\AllProjects.AssemblyInfo.cs
+C:\Users\maxim\RiderProjects\AllProjects\AllProjects\obj\Debug\net6.0\AllProjects.csproj.CoreCompileInputs.cache
+C:\Users\maxim\RiderProjects\AllProjects\AllProjects\obj\Debug\net6.0\AllProjects.dll
+C:\Users\maxim\RiderProjects\AllProjects\AllProjects\obj\Debug\net6.0\refint\AllProjects.dll
+C:\Users\maxim\RiderProjects\AllProjects\AllProjects\obj\Debug\net6.0\AllProjects.pdb
+C:\Users\maxim\RiderProjects\AllProjects\AllProjects\obj\Debug\net6.0\AllProjects.genruntimeconfig.cache
+C:\Users\maxim\RiderProjects\AllProjects\AllProjects\obj\Debug\net6.0\ref\AllProjects.dll
